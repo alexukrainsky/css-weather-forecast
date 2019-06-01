@@ -86,3 +86,6 @@ ul:hover li:not(:hover) {
 .city {
 	color:white;
 }
+.wi {
+	font-size: 20px;
+}
