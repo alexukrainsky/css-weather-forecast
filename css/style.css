@@ -18,8 +18,7 @@ ul {text-align: center;
 ul:hover > li { opacity: 0.6;}
 ul li:hover { opacity: 1;}
 ul li:active { background: white;}
-li {padding: 0px 10px;
-	border: 2px solid #fff;
+li {border: 2px solid #fff;
 	text-align: center;
 	font-size: 16px;}
 p {color: rgba(255, 255, 255, 0.6);}
