@@ -12,7 +12,8 @@ header, footer
 ul, li {display: inline-block;
 		-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
 ul {text-align:center;
-	font-size: 0;}
+	font-size: 0;
+  list-style-type: none;}
 ul:hover > li { opacity: 0.6;}
 ul li:hover { opacity: 1;}
 ul li:active { background: white;}
