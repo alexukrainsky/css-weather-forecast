@@ -79,7 +79,7 @@ width: 100%;}
 .left {
   left: 0;
 }
-.ul:hover li:not(:hover) {
+ul:hover li:not(:hover) {
   background-image: url(../image/bg.png);
   background-size: contain;
 }
