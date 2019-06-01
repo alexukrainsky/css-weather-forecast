@@ -83,3 +83,6 @@ ul:hover li:not(:hover) {
   background-image: url(../image/bg.png);
   background-size: contain;
 }
+.city {
+	color:white;
+}
