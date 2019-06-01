@@ -4,7 +4,7 @@ body {font: 200 16px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	background-color: #3399cc;
 	color: #fff;}
 main {
-	width: 50%;
+	width: 60%;
 	margin: 70px auto;
 	}
 header, footer
@@ -17,7 +17,7 @@ ul {text-align: center;
 	border: 2px solid #fff;}
 li {border: 2px solid #fff;
 	text-align: center;
-	font-size: 16px;}
+	font-size: 20px;}
 p {color: rgba(255, 255, 255, 0.6);}
 .Lisbon {background-color: #3399cc;
 width: 50%;}
