@@ -15,7 +15,7 @@ ul {width: 100%;
 ul:hover > li { opacity: 0.6;}
 ul li:hover { opacity: 1;}
 ul li:active { background: white;}
-li {padding: 30px 10px;
+li {padding: 0px 10px;
 	border: 3px solid #fff;
 	text-align: center;
 	font-size: 16px;}
